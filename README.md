@@ -36,4 +36,3 @@ Routes aufsetzen:
 - Der zweite Teil  (req, res) => { res.send("halloooo") } ist der BEARBEITER, der den Anruf entgegennimmt und antwortet
 - res.send() sendet dem Anrufer eine Antwort zurück (=> also meistens DATEN aus der Datenbank)
 
-- 
